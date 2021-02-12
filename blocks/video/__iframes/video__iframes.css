@@ -1,0 +1,10 @@
+.video__iframes {
+    min-width: 515px;
+    min-height: 316px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
