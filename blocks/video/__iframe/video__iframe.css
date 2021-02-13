@@ -1,9 +1,11 @@
 .video__iframe {
     display: flex;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 0px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 0;
     width: 515px;
     height: 316px;
     border: none;
+    padding: 0;
   }
