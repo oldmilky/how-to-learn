@@ -8,3 +8,6 @@
     margin-top: 50px;
     margin-bottom: 0px;
   }
+.video__iframes:last-of-type(2) {
+margin: 0;
+}
