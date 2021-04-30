@@ -13,3 +13,4 @@
 2. HTML5
 3. Желательный стороний плагин "Live Server"
 
+Посмотреть работу можно по ссылке - https://oldmilky.github.io/how-to-learn/
